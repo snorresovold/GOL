@@ -37,7 +37,7 @@ var (
         // values represented as xyz
         // ranges from -1 to 1
         // we're not using 3D so z is always 0
-        0, 0.5, 0, // top
+        0, 0.5, 0,      // top
         -0.5, -0.5, 0, // left
         0.5, -0.5, 0, // right
     }
