@@ -38,7 +38,7 @@ const (
 	threshold = 0.15
 	fps       = 100000000000000
 )
-
+// the values for a square
 var (
 	square = []float32{
 		-0.5, 0.5, 0,
